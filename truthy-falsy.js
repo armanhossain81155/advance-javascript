@@ -2,7 +2,7 @@
 // 0
 // null
 //""
-// unddefined
+// undefined
 //NaN
 
 //Truthy
